@@ -25,12 +25,14 @@ for path, directories, files in os.walk("src"):
     for file in sorted(files):
         extension = file.split(".")[-1]
         
-        # Build last column
+        # Build last column. NOTE: URL will convert ? into %3f
         get_image = lambda e,s=24: f'{image_src}{image_mapper[e]}/{image_mapper[e]}_{s}x{s}.png'
+        ori_path = ori_path.replace("?", "%3f")
         if extension in image_mapper:
             hyps.append(f"[![{extension}]({get_image(extension)})]({ori_path}/{file})")
         else:
             hyps.append(f"[![{extension}]({get_image(extension)})]()")
+        print(hyps)
 
         # Build second column
         if not has_cpp and extension == "cpp":

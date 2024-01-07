@@ -2,10 +2,11 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 11
+## Total problems solved: 12
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
+|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates)| buy-two-chocolates |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Buy%20Two%20Chocolates/buy-two-chocolates.py)|
 |[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)| count-of-matches-in-tournament |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Count%20of%20Matches%20in%20Tournament/count-of-matches-in-tournament.py)|
 |[Course Schedule](https://leetcode.com/problems/course-schedule)| course-schedule |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Course%20Schedule/course-schedule.py)|
 |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)| is-graph-bipartite |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Is%20Graph%20Bipartite%3f/is-graph-bipartite.py)|

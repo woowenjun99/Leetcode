@@ -4,16 +4,7 @@ import os
 image_src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/' # hey this a credit!
 image_mapper = {
     'py':   'python',
-    'c':    'c',
-    'cpp':  'cpp',
-    'cs':   'csharp',
-    'go':   'go',
-    'hs':   'haskell',
-    'java': 'java',
-    'kt':   'kotlin',
-    'php':  'php',
-    'rb':   'ruby',
-    'js':   'javascript'
+    'cpp':  'cpp'
 }
 
 contents = []
@@ -33,13 +24,11 @@ for path, directories, files in os.walk("src"):
         else:
             hyps.append(f"[![{extension}]({get_image(extension)})]()")
 
-        # Build second column
+        # Build first two columns
         if not has_cpp and extension == "cpp":
             has_cpp = file
         if not has_py and extension == "py":
             has_py = file
-        
-        # Build first column
         pid = (has_cpp or has_py).split(".")[0]
         url = f"https://leetcode.com/problems/{pid}" 
         if len(path) == 2: path = path[1]

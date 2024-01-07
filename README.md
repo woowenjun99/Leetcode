@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 9
+## Total problems solved: 10
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -11,6 +11,7 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)| letter-combinations-of-a-phone-number |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Letter%20Combinations%20of%20a%20Phone%20Number/letter-combinations-of-a-phone-number.py)|
 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)| longest-increasing-subsequence |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Longest%20Increasing%20Subsequence/longest-increasing-subsequence.py)|
 |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)| maximum-profit-in-job-scheduling |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Maximum%20Profit%20in%20Job%20Scheduling/maximum-profit-in-job-scheduling.py)|
+|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string)| maximum-score-after-splitting-a-string |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Maximum%20Score%20After%20Splitting%20a%20String/maximum-score-after-splitting-a-string.py)|
 |[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)| number-of-laser-beams-in-a-bank |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Number%20of%20Laser%20Beams%20in%20a%20Bank/number-of-laser-beams-in-a-bank.py)|
 |[Permutations](https://leetcode.com/problems/permutations)| permutations |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Permutations/permutations.py)|
 |[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)| redistribute-characters-to-make-all-strings-equal |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/redistribute-characters-to-make-all-strings-equal.py)|

@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 25
+## Total problems solved: 26
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -30,4 +30,5 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Permutations](https://leetcode.com/problems/permutations)| permutations |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Permutations/permutations.py)|
 |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)| range-sum-of-bst |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Range%20Sum%20of%20BST/range-sum-of-bst.py)|
 |[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)| redistribute-characters-to-make-all-strings-equal |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/redistribute-characters-to-make-all-strings-equal.py)|
+|[Same Tree](https://leetcode.com/problems/same-tree)| same-tree |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Same%20Tree/same-tree.py)|
 |[Two Sum](https://leetcode.com/problems/two-sum)| two-sum |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Two%20Sum/two-sum.py)|

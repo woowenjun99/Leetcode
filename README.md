@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 20
+## Total problems solved: 21
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -14,6 +14,7 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions)| convert-an-array-into-a-2d-array-with-conditions |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions/convert-an-array-into-a-2d-array-with-conditions.cpp)|
 |[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)| count-of-matches-in-tournament |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Count%20of%20Matches%20in%20Tournament/count-of-matches-in-tournament.py)|
 |[Course Schedule](https://leetcode.com/problems/course-schedule)| course-schedule |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Course%20Schedule/course-schedule.py)|
+|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)| find-words-that-can-be-formed-by-characters |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/find-words-that-can-be-formed-by-characters.py)|
 |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)| is-graph-bipartite |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Is%20Graph%20Bipartite%3f/is-graph-bipartite.py)|
 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)| leaf-similar-trees |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Leaf-Similar%20Trees/leaf-similar-trees.py)|
 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)| letter-combinations-of-a-phone-number |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Letter%20Combinations%20of%20a%20Phone%20Number/letter-combinations-of-a-phone-number.py)|

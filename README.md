@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 23
+## Total problems solved: 24
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -16,6 +16,7 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Course Schedule](https://leetcode.com/problems/course-schedule)| course-schedule |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Course%20Schedule/course-schedule.py)|
 |[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)| find-words-that-can-be-formed-by-characters |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/find-words-that-can-be-formed-by-characters.py)|
 |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)| is-graph-bipartite |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Is%20Graph%20Bipartite%3f/is-graph-bipartite.py)|
+|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)| largest-substring-between-two-equal-characters |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Largest%20Substring%20Between%20Two%20Equal%20Characters/largest-substring-between-two-equal-characters.py)|
 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)| leaf-similar-trees |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Leaf-Similar%20Trees/leaf-similar-trees.py)|
 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)| letter-combinations-of-a-phone-number |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Letter%20Combinations%20of%20a%20Phone%20Number/letter-combinations-of-a-phone-number.py)|
 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)| longest-increasing-subsequence |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Longest%20Increasing%20Subsequence/longest-increasing-subsequence.py)|

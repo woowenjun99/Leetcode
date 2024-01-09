@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 15
+## Total problems solved: 16
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -12,6 +12,7 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)| count-of-matches-in-tournament |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Count%20of%20Matches%20in%20Tournament/count-of-matches-in-tournament.py)|
 |[Course Schedule](https://leetcode.com/problems/course-schedule)| course-schedule |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Course%20Schedule/course-schedule.py)|
 |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)| is-graph-bipartite |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Is%20Graph%20Bipartite%3f/is-graph-bipartite.py)|
+|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)| leaf-similar-trees |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Leaf-Similar%20Trees/leaf-similar-trees.py)|
 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)| letter-combinations-of-a-phone-number |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Letter%20Combinations%20of%20a%20Phone%20Number/letter-combinations-of-a-phone-number.py)|
 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)| longest-increasing-subsequence |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Longest%20Increasing%20Subsequence/longest-increasing-subsequence.py)|
 |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)| maximum-profit-in-job-scheduling |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Maximum%20Profit%20in%20Job%20Scheduling/maximum-profit-in-job-scheduling.py)|

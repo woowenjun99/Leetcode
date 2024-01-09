@@ -2,12 +2,13 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 16
+## Total problems solved: 17
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
 |[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)| arithmetic-slices-ii-subsequence |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Arithmetic%20Slices%20II%20-%20Subsequence/arithmetic-slices-ii-subsequence.py)|
 |[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates)| buy-two-chocolates |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Buy%20Two%20Chocolates/buy-two-chocolates.py)|
+|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)| contains-duplicate |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Contains%20Duplicate/contains-duplicate.py)|
 |[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions)| convert-an-array-into-a-2d-array-with-conditions |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions/convert-an-array-into-a-2d-array-with-conditions.cpp)|
 |[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)| count-of-matches-in-tournament |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Count%20of%20Matches%20in%20Tournament/count-of-matches-in-tournament.py)|
 |[Course Schedule](https://leetcode.com/problems/course-schedule)| course-schedule |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Course%20Schedule/course-schedule.py)|

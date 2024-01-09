@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 17
+## Total problems solved: 18
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -19,6 +19,7 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)| maximum-profit-in-job-scheduling |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Maximum%20Profit%20in%20Job%20Scheduling/maximum-profit-in-job-scheduling.py)|
 |[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string)| maximum-score-after-splitting-a-string |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Maximum%20Score%20After%20Splitting%20a%20String/maximum-score-after-splitting-a-string.py)|
 |[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)| number-of-laser-beams-in-a-bank |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Number%20of%20Laser%20Beams%20in%20a%20Bank/number-of-laser-beams-in-a-bank.py)|
+|[Path Crossing](https://leetcode.com/problems/path-crossing)| path-crossing |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Path%20Crossing/path-crossing.py)|
 |[Permutations](https://leetcode.com/problems/permutations)| permutations |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Permutations/permutations.py)|
 |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)| range-sum-of-bst |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Range%20Sum%20of%20BST/range-sum-of-bst.py)|
 |[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal)| redistribute-characters-to-make-all-strings-equal |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/redistribute-characters-to-make-all-strings-equal.py)|

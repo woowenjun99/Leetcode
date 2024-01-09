@@ -2,11 +2,12 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 24
+## Total problems solved: 25
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
 |[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)| arithmetic-slices-ii-subsequence |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Arithmetic%20Slices%20II%20-%20Subsequence/arithmetic-slices-ii-subsequence.py)|
+|[Assign Cookies](https://leetcode.com/problems/assign-cookies)| assign-cookies |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Assign%20Cookies/assign-cookies.cpp)|
 |[Binary Search](https://leetcode.com/problems/binary-search)| binary-search |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Binary%20Search/binary-search.py)|
 |[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates)| buy-two-chocolates |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Buy%20Two%20Chocolates/buy-two-chocolates.py)|
 |[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)| check-if-two-string-arrays-are-equivalent |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/check-if-two-string-arrays-are-equivalent.py)|

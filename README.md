@@ -2,10 +2,11 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 26
+## Total problems solved: 27
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
+|[Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected)| amount-of-time-for-binary-tree-to-be-infected |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected/amount-of-time-for-binary-tree-to-be-infected.py)|
 |[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)| arithmetic-slices-ii-subsequence |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Arithmetic%20Slices%20II%20-%20Subsequence/arithmetic-slices-ii-subsequence.py)|
 |[Assign Cookies](https://leetcode.com/problems/assign-cookies)| assign-cookies |[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Assign%20Cookies/assign-cookies.cpp)|
 |[Binary Search](https://leetcode.com/problems/binary-search)| binary-search |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Binary%20Search/binary-search.py)|

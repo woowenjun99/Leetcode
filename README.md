@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 30
+## Total problems solved: 31
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -17,6 +17,7 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)| count-of-matches-in-tournament |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Count%20of%20Matches%20in%20Tournament/count-of-matches-in-tournament.py)|
 |[Course Schedule](https://leetcode.com/problems/course-schedule)| course-schedule |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Course%20Schedule/course-schedule.py)|
 |[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)| determine-if-string-halves-are-alike |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Determine%20if%20String%20Halves%20Are%20Alike/determine-if-string-halves-are-alike.py)|
+|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)| determine-if-two-strings-are-close |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Determine%20if%20Two%20Strings%20Are%20Close/determine-if-two-strings-are-close.py)|
 |[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)| find-words-that-can-be-formed-by-characters |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/find-words-that-can-be-formed-by-characters.py)|
 |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)| is-graph-bipartite |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Is%20Graph%20Bipartite%3f/is-graph-bipartite.py)|
 |[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)| largest-substring-between-two-equal-characters |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Largest%20Substring%20Between%20Two%20Equal%20Characters/largest-substring-between-two-equal-characters.py)|

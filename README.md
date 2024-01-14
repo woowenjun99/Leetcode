@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 31
+## Total problems solved: 32
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -30,6 +30,7 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)| minimum-changes-to-make-alternating-binary-string |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/minimum-changes-to-make-alternating-binary-string.py)|
 |[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty)| minimum-number-of-operations-to-make-array-empty |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty/minimum-number-of-operations-to-make-array-empty.py)|
 |[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)| minimum-number-of-steps-to-make-two-strings-anagram |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/minimum-number-of-steps-to-make-two-strings-anagram.py)|
+|[Network Delay Time](https://leetcode.com/problems/network-delay-time)| network-delay-time |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Network%20Delay%20Time/network-delay-time.py)|
 |[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)| number-of-laser-beams-in-a-bank |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Number%20of%20Laser%20Beams%20in%20a%20Bank/number-of-laser-beams-in-a-bank.py)|
 |[Path Crossing](https://leetcode.com/problems/path-crossing)| path-crossing |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Path%20Crossing/path-crossing.py)|
 |[Permutations](https://leetcode.com/problems/permutations)| permutations |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Permutations/permutations.py)|

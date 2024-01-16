@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 33
+## Total problems solved: 34
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -20,6 +20,7 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)| determine-if-two-strings-are-close |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Determine%20if%20Two%20Strings%20Are%20Close/determine-if-two-strings-are-close.py)|
 |[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses)| find-players-with-zero-or-one-losses |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Find%20Players%20With%20Zero%20or%20One%20Losses/find-players-with-zero-or-one-losses.py)|
 |[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)| find-words-that-can-be-formed-by-characters |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/find-words-that-can-be-formed-by-characters.py)|
+|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)| insert-delete-getrandom-o1 |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Insert%20Delete%20GetRandom%20O(1)/insert-delete-getrandom-o1.py)|
 |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)| is-graph-bipartite |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Is%20Graph%20Bipartite%3f/is-graph-bipartite.py)|
 |[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)| largest-substring-between-two-equal-characters |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Largest%20Substring%20Between%20Two%20Equal%20Characters/largest-substring-between-two-equal-characters.py)|
 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)| leaf-similar-trees |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Leaf-Similar%20Trees/leaf-similar-trees.py)|

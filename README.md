@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 44
+## Total problems solved: 45
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -31,6 +31,7 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)| letter-combinations-of-a-phone-number |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Letter%20Combinations%20of%20a%20Phone%20Number/letter-combinations-of-a-phone-number.py)|
 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)| longest-increasing-subsequence |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Longest%20Increasing%20Subsequence/longest-increasing-subsequence.py)|
 |[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)| maximum-difference-between-node-and-ancestor |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Maximum%20Difference%20Between%20Node%20and%20Ancestor/maximum-difference-between-node-and-ancestor.py)|
+|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)| maximum-length-of-a-concatenated-string-with-unique-characters |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/maximum-length-of-a-concatenated-string-with-unique-characters.py)|
 |[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)| maximum-profit-in-job-scheduling |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Maximum%20Profit%20in%20Job%20Scheduling/maximum-profit-in-job-scheduling.py)|
 |[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string)| maximum-score-after-splitting-a-string |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Maximum%20Score%20After%20Splitting%20a%20String/maximum-score-after-splitting-a-string.py)|
 |[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)| minimum-changes-to-make-alternating-binary-string |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/minimum-changes-to-make-alternating-binary-string.py)|

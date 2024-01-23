@@ -2,7 +2,7 @@
 
 The code has been modified from Russell Dash's build.py of Autokattis for Leetcode
 
-## Total problems solved: 45
+## Total problems solved: 46
 
 |Problem Name|Problem ID|Languages|
 |:---|:---|:---|
@@ -51,3 +51,4 @@ The code has been modified from Russell Dash's build.py of Autokattis for Leetco
 |[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)| sort-characters-by-frequency |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sort%20Characters%20By%20Frequency/sort-characters-by-frequency.py)|
 |[Two Sum](https://leetcode.com/problems/two-sum)| two-sum |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Two%20Sum/two-sum.py)|
 |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)| unique-number-of-occurrences |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Unique%20Number%20of%20Occurrences/unique-number-of-occurrences.py)|
+|[Valid Anagram](https://leetcode.com/problems/valid-anagram)| valid-anagram |[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Valid%20Anagram/valid-anagram.py)|
